@@ -25,7 +25,3 @@ I am a student of the 2nd year of Economics Security in NRNU MEPHI.In the future
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.kaggle.com/denzik228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="denzcei" height="30" width="40" /></a>
-</p>
