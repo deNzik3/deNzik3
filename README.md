@@ -1,8 +1,11 @@
-Hello! My name is Denis
+Hello! My name is Denis👋
 ======================
 
-Junior Data Scientist📊
+Junior Data Scientist
 ---------------------
+
+About
+======================
 
 I am a student of the 2nd year of Economics Security in NRNU MEPHI.In the future I am planning to become a data analyst. Engaged in analysis in Python, created a recommendation system for films; I also have extensive experience with PostgreSQL in writing complex queries; Created visualizations in Power BI. I also worked with the team on project to create a "Mortgage Calculator in Excel".
 
