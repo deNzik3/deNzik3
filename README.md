@@ -26,4 +26,9 @@ Languages and tools🛠
 </p>
 
 
+Certificates and courses📜
+======================
+[Interactive SQL Trainer](https://stepik.org/cert/1959546)(2022)(Stepik)
+[SQL for everyone](https://stepik.org/cert/1574139)(2022)(Stepik)
+
 
