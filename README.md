@@ -1,13 +1,13 @@
 Hi there! My name is Denis👋👨🏻‍💻
 ======================
 
-Junior Data Scientist
+Junior Data Analyst
 ======================
 
 About
 ======================
 
-I am a 2nd year Student of Economics Security in NRNU MEPHI.I am passionate about everything that is connected with data. In the future I am planning to become a data scientist. Currently I am learning a Machine Learning and everything connected with it.
+I am a 2nd year Student of Economics Security in NRNU MEPHI.I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am learning a Machine Learning and everything connected with it.
 
 Moreover I have an experience in EDA in Python,also I've created a recommendation system for films; and I have extensive experience with PostgreSQL in writing complex queries; I was also preparing visualizations in Power BI. I also worked with the team on project to create a "Mortgage Calculator in Excel".
 
@@ -25,6 +25,7 @@ Languages and tools🛠
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"> <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/e8/af/0ee8af68-2c69-d3ae-1ba7-8fdf9ad9bad8/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png" alt="power bi" width="40" height="40"/> </a> 
 </p>
 
 
