@@ -10,7 +10,7 @@ I am a 2nd year Student of Economics Security in NRNU MEPHI. I am passionate abo
 
 
 * 🌍 I'm living in Moscow
-* 🖥️ See my resume [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
+* 🖥️ See my resume [RU](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻 My Kaggle [click](https://www.kaggle.com/denzik228)
