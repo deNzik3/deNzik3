@@ -1,4 +1,4 @@
-Hello! My name is Denis👋
+Hi there! My name is Denis👋
 ======================
 
 Junior Data Scientist
