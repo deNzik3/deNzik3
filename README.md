@@ -13,7 +13,7 @@ Moreover I have an experience in EDA in Python,also I've created a recommendatio
 
 * 🌍  I'm living in Moscow
 * 🖥️  See my portfolio [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
-* ✉️  You can contact me at [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
+* ✉️  You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 
 
 
@@ -25,7 +25,7 @@ Languages and tools🛠
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"> <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/e8/af/0ee8af68-2c69-d3ae-1ba7-8fdf9ad9bad8/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png" alt="power bi" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/917/379/png-transparent-power-bi-business-intelligence-microsoft-logo-data-visualization-microsoft-text-rectangle-logo.png" alt="power bi" width="40" height="40"/> </a> 
 </p>
 
 
