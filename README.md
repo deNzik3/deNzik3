@@ -9,7 +9,7 @@ About
 I am a 2nd year Student of Economics Security in NRNU MEPHI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am learning a Machine Learning and everything connected with it.
 
 
-* 🌍 I'm living in Moscow
+* 🌍 Currently in Moscow
 * 🖥️ See my resume [RU](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
