@@ -28,8 +28,8 @@ Languages and tools🛠
 
 Certificates and courses📜
 ======================
-I believe that the best way to show your skills is by doing practical exercises, however courses plays also such an importang role. So here is the list of them, that I've finished recently.
-----------------------
+I am sure that the best way to show your skills is by doing practical exercises, however courses plays also such an importang role. So here is the list of them, that I've finished recently.
+
 * [Interactive SQL Trainer](https://stepik.org/cert/1959546)(2022)(Stepik)
 * [SQL for everyone](https://stepik.org/cert/1574139)(2022)(Stepik)
 * [SQL for Data Analysis](https://disk.yandex.ru/i/AX2bJUKksYDbDg)(2023)(Udacity)
