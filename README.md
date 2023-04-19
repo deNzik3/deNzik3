@@ -13,7 +13,7 @@ Moreover I have an experience in EDA in Python,also I've created a recommendatio
 * 🌍  I'm living in Moscow
 * 🖥️  See my resume [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * ✉️  You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
-* 💻  My Kaggle [click](https://www.kaggle.com/denzik228)
+* 💻   My Kaggle [click](https://www.kaggle.com/denzik228)
 
 Job experience
 ====================
