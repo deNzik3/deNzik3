@@ -14,7 +14,7 @@ Moreover I have an experience in EDA in Python,also I've created a recommendatio
 * 🖥️  See my resume [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * 🔧  See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️  You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
-* 💻   My Kaggle [click](https://www.kaggle.com/denzik228)
+* 💻  My Kaggle [click](https://www.kaggle.com/denzik228)
 
 Job experience
 ====================
