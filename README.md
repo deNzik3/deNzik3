@@ -12,9 +12,13 @@ I am a 2nd year Student of Economics Security in NRNU MEPHI.I am passionate abou
 Moreover I have an experience in EDA in Python,also I've created a recommendation system for films; and I have extensive experience with PostgreSQL in writing complex queries; I was also preparing visualizations in Power BI. I also worked with the team on project to create a "Mortgage Calculator in Excel".
 
 * 🌍  I'm living in Moscow
-* 🖥️  See my portfolio [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
+* 🖥️  See my resume [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * ✉️  You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻  My Kaggle [click](https://www.kaggle.com/denzik228)
+
+Job experience
+====================
+* Financial consultant at [MIR Privilege Bank](https://mp-bank.ru/)
 
 
 
