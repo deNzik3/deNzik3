@@ -1,4 +1,4 @@
-Hi there! My name is Denis👋
+Hi there! My name is Denis👋👨🏻‍💻
 ======================
 
 Junior Data Scientist
@@ -7,12 +7,13 @@ Junior Data Scientist
 About
 ======================
 
-I am a student of the 2nd year of Economics Security in NRNU MEPHI.In the future I am planning to become a data analyst. Engaged in analysis in Python, created a recommendation system for films; I also have extensive experience with PostgreSQL in writing complex queries; Created visualizations in Power BI. I also worked with the team on project to create a "Mortgage Calculator in Excel".
+I am a 2nd year Student of Economics Security in NRNU MEPHI.I am passionate about everything that is connected with data. In the future I am planning to become a data scientist. Currently I am learning a Machine Learning and everything connected with it.
+Moreover I have an experience in EDA in Python,also I've created a recommendation system for films; and I have extensive experience with PostgreSQL in writing complex queries; I was also preparing visualizations in Power BI. I also worked with the team on project to create a "Mortgage Calculator in Excel".
 
 * 🌍  I'm living in Moscow
 * 🖥️  See my portfolio at [pdf](http://myresume.ru/resume/3VIyPPWyrQQ/)
 * ✉️  You can contact me at [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
-* 🧠  Currently I'm learning Machine Learning
+
 
 
 
