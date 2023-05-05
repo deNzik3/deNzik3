@@ -6,7 +6,7 @@ Hi there! My name is Denis👋👨🏻‍💻
 About
 ======================
 
-I am a 2nd year Student of Economics Security in NRNU MEPHI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am learning a Machine Learning and everything connected with it.
+I am a 2nd year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am learning a Machine Learning and everything connected with it.
 
 
 * 🌍 Currently in Moscow
