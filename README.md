@@ -1,10 +1,10 @@
-Hi there! My name is Denis👋👨🏻‍💻
-======================
+# Hi there! My name is Denis👋👨🏻‍💻
 
 
 
-About
-======================
+
+# About
+
 
 I am a 2nd year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am learning a Machine Learning and everything connected with it.
 
@@ -15,15 +15,14 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻 My Kaggle [click](https://www.kaggle.com/denzik228)
 
-Job experience
-====================
+# Job eexperience
+
 * Financial consultant at [MIR Privilege Bank](https://mp-bank.ru/)
 
 
 
 
-Hard skills
-======================
+# Hard skills
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -32,7 +31,6 @@ Hard skills
 
 
 
-</p>
 
 
 
