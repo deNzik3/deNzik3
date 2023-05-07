@@ -15,7 +15,7 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻 My Kaggle [click](https://www.kaggle.com/denzik228)
 
-# Job eexperience
+# Job experience
 
 * Financial consultant at [MIR Privilege Bank](https://mp-bank.ru/)
 
