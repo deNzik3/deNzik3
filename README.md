@@ -13,7 +13,7 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 * 🖥️ See my resume [RU](https://myresume.ru/resume/3VIyPPWyrQQ/) or [ENG](https://myresume.ru/resume/g6Lbhv3hoFZ/)
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
-* 💻 My Kaggle [click](https://www.kaggle.com/denzik228)
+* 💻 My Kaggle [click](https://www.kaggle.com/densivanov)
 
 # Job experience
 
