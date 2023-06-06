@@ -24,11 +24,14 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 
 # Hard skills
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/ru-ru/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/917/379/png-transparent-power-bi-business-intelligence-microsoft-logo-data-visualization-microsoft-text-rectangle-logo.png" alt="power bi" width="40" height="40"/> </a> 
+* **Programming: Python,SQL, Power Query**
 
 
+* **Data Workflow: Pandas, Numpy, Seaborn, PySparkSQL, Scikit-Learn**
+
+* **Deployment: Git, Docker**
+
+* **Extra: Power BI, Excel, A/B testing**
 
 
 
