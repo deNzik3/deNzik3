@@ -24,7 +24,7 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 
 # Hard skills
 
-* **Programming: Python,SQL, Power Query**
+* **Programming: Python, SQL, Power Query**
 
 
 * **Data Workflow: Pandas, Numpy, Seaborn, PySparkSQL, Scikit-Learn**
