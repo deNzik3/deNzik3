@@ -16,6 +16,7 @@ Right now I am working on [taxi data analysis](https://github.com/densivanov/dat
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻 My Kaggle [click](https://www.kaggle.com/densivanov)
+* ✒️ My Habr [click](https://habr.com/ru/users/denzceo/)
 
 # Job experience
 
