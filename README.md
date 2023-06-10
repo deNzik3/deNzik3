@@ -6,7 +6,9 @@
 # About
 
 
-I am a 2nd year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. Currently I am into Data Science and everything connected with it.
+I am a 2nd year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. 
+
+Currently I am working on [taxi data analysis](https://github.com/densivanov/data_analytics_projects/tree/main/taxi_analysis)
 
 
 * 🌍 Currently in Moscow
