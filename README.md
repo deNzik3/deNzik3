@@ -27,7 +27,7 @@ I am a 2nd year Student of Economics Security in National Research Nuclear Unive
 * **Programming: Python, SQL, Power Query**
 
 
-* **Data Workflow: Pandas, Numpy, Seaborn, PySparkSQL, Scikit-Learn**
+* **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn**
 
 * **Deployment: Git, Docker**
 
