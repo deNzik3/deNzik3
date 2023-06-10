@@ -14,9 +14,9 @@ Right now I am working on [taxi data analysis](https://github.com/densivanov/dat
 * 🌍 Currently in Moscow
 * 🖥️ See my resume [RU](https://myresume.ru/resume/3VIyPPWyrQQ/) or [ENG](https://myresume.ru/resume/g6Lbhv3hoFZ/)
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
-* ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 * 💻 My Kaggle [click](https://www.kaggle.com/densivanov)
 * ✒️ My Habr [click](https://habr.com/ru/users/denzceo/)
+* ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 
 # Job experience
 
