@@ -20,8 +20,10 @@ Right now I am working on [taxi data analysis](https://github.com/densivanov/dat
 
 # Job experience
 
-* Financial consultant at [MIR Privilege Bank](https://mp-bank.ru/)
 * Intern Product Analyst at [Tinkoff](https://www.tinkoff.ru)
+  - Unloading and analyzing data from databases
+  - Building visualizations in Python
+  - Building Visual Dashboards in TableAu
 
 
 
