@@ -8,7 +8,7 @@
 
 I am a 2nd year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data. In the future I am planning to become a data analyst. 
 
-Right now I am working on [taxi data analysis](https://github.com/densivanov/data_analytics_projects/tree/main/taxi_analysis)
+Right now I am working in Tinkoff as Product Analyst
 
 
 * 🌍 Currently in Moscow
