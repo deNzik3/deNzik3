@@ -24,6 +24,7 @@ Right now I am working in Tinkoff as Product Analyst
   - Unloading and analyzing data from databases
   - Building visualizations in Python
   - Building Visual Dashboards in TableAu
+  - A/B testing
 
 
 
