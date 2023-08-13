@@ -21,10 +21,8 @@ Right now I am working in Tinkoff as Product Analyst
 # Job experience
 
 * Intern Product Analyst at [Tinkoff](https://www.tinkoff.ru)
-  - Unloading and analyzing data from databases
-  - Building visualizations in Python
-  - Building Visual Dashboards in TableAu
-  - A/B testing
+
+  + I worked in the department for the release of Electronic Signatures.Built an analytics system from scratch (before that there was no analyst in the team). Created basic product analytics. With the help of the A/B test, we were able to increase the conversion rate. Worked with the company's internal tools.Wwas engaged in data analysis, preparation of weekly reports on the main metrics of the product, conducting A/B tests, as well as improving the product with the help of analytics. I consider the main achievement to be the construction of an ML model for predicting the release of Electronic Signatures
 
 
 
