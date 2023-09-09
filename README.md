@@ -24,6 +24,21 @@ Right now I am working in Tinkoff as Product Analyst
 
 
 
+Worked in the department of Qualified Electronic Signature for Business. I built an analytics system from scratch (before that there was no analyst in the team). Created basic product analytics.
+
+**Technology stack:**
+* structuring data in DWH
+* A/B testing
+* created dashboards based on the main metrics
+* data visualization in Python
+* vintage analysis
+
+**Results:**
+* was able to build basic product analytics
+* launched a new feature using an A/B test
+* built OKR for a year with the help of analytics
+
+
 # Hard skills
 
 * **Programming: Python, SQL, Power Query**
