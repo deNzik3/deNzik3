@@ -41,14 +41,14 @@ Worked in the department of Qualified Electronic Signature for Business. I built
 
 # Hard skills
 
-* **Programming: Python, SQL, Power Query**
+* **Programming: Python, R, SQL, Power Query**
 
 
 * **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn**
 
 * **Deployment: Git, Docker**
 
-* **Extra: Power BI, Excel, A/B testing**
+* **Extra: Power BI, TableAu, Superset, Excel, A/B testing**
 
 
 
