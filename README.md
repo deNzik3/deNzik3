@@ -5,9 +5,6 @@
 
 # About
 
-
-I am a 3d year Student of Economics Security in National Research Nuclear University MEPhI. I am passionate about everything that is connected with data!
-
 Right now I am working in Tinkoff as Product Analyst
 
 
