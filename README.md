@@ -9,7 +9,6 @@ Right now I am working in Tinkoff as Product Analyst
 
 
 * 🌍 Currently in Moscow
-* 🖥️ See my resume [RU](https://github.com/densivanov/data_analytics_projects/blob/main/resume_rus.jpg) or [ENG](https://github.com/densivanov/data_analytics_projects/blob/main/resume_eng.jpg)
 * 🔧 See my GitHub portfolio [click](https://github.com/deNzik3/data_analytics_projects)
 * ✉️ You can contact me  [dennis811box@mail.ru](mailto:dennis811box@mail.ru)
 
