@@ -5,7 +5,7 @@
 
 # About
 
-Right now I am working in Tinkoff as Product Analyst
+Hi! I am a product analyst from Tinkoff, I do mentoring, and also the creator of the SQL course on Stepik!
 
 
 * 🌍 Currently in Moscow
