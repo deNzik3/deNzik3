@@ -2,10 +2,9 @@
 
 
 
-
 # About
 
-Hi! I am a product analyst from Tinkoff, I do mentoring, and also the creator of the SQL course on Stepik!
+Hi! I am a product analyst from MTC, I do mentoring, and also the creator of the SQL course on Stepik! Also I have my own telegram [channel](https://t.me/product_analytics_hub)
 
 
 * 🌍 Currently in Moscow
