@@ -13,18 +13,6 @@ I am a Lead Product Analyst at Magnit Tech, I do mentoring, and the creator of t
 * 📝 My articles here [Habr](https://habr.com/ru/users/denzceo/publications/articles/)
 
 
-# Hard skills
-
-* **Programming: Python, R, SQL, Power Query**
-
-
-* **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, PandaSQL, Scikit-Learn, Scipy, PySpark, PostgreSQL, Clickhouse, MS SQL**
-
-* **Deployment: Git, Docker**
-
-* **Visualization: TableAu, SuperSet, Looker Studio, Datalens, Power BI**
-
-* **Extra: A/B testing, Agile, Kanban, Statistics, Leadership qualities, Mentor, Team Management**
 
 
 
